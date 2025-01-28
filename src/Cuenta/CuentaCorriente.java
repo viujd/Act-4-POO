@@ -1,4 +1,4 @@
-package Ejer1;
+package Cuenta;
 
 public class CuentaCorriente extends Cuenta {
     private float sobregiro;

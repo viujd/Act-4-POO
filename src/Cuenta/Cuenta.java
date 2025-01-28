@@ -1,4 +1,4 @@
-package Ejer1;
+package Cuenta;
 public class Cuenta {
     protected float saldo;
     protected int numeroConsignaciones = 0;

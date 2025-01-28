@@ -1,4 +1,4 @@
-package Ejer2;
+package Inmueble;
 
 public class Oficina extends Local {
     protected static double valorArea = 3500000;

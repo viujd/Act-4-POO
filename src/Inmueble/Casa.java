@@ -1,4 +1,4 @@
-package Ejer2;
+package Inmueble;
 
 public class Casa extends InmuebleVivienda {
     protected int númeroPisos;

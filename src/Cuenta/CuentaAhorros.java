@@ -1,4 +1,4 @@
-package Ejer1;
+package Cuenta;
 public class CuentaAhorros extends Cuenta {
     private boolean activa;
 

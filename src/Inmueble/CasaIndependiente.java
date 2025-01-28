@@ -1,4 +1,4 @@
-package Ejer2;
+package Inmueble;
 
 public class CasaIndependiente extends CasaUrbana {
     protected static double valorArea = 3000000;

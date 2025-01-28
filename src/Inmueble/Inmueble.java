@@ -1,4 +1,4 @@
-package Ejer2;
+package Inmueble;
 
 public class Inmueble {
     protected int identificadorInmobiliario;

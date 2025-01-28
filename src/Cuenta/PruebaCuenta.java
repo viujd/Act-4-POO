@@ -1,4 +1,4 @@
-package Ejer1;
+package Cuenta;
 import java.util.*;
 
 public class PruebaCuenta {

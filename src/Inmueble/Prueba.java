@@ -1,4 +1,4 @@
-package Ejer2;
+package Inmueble;
 
 public class Prueba {
     public static void main(String args[]) {
